@@ -1,15 +1,14 @@
 ## Bot Pixel
 
+Untuk mendaftar bot Pixel, kunjungi [tautannya](https://web.telegram.org/k/#@the_pixels_bot).
 
+![Pixel Bot](https://github.com/Winnode/The_pixel/blob/main/pixel.png)
 
-register https://web.telegram.org/k/#@the_pixels_bot
+### Instalasi
+Untuk menginstal, jalankan perintah berikut:
 
-![ambil account](https://github.com/Winnode/The_pixel/blob/main/pixel.png)
-
-
-# Install
 Pip install -r requirements.txt
 
-# Run
+### Run
 
 python3 main.py
