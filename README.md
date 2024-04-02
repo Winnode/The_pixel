@@ -9,19 +9,24 @@ Untuk mendaftar bot Pixel, kunjungi [Register](https://web.telegram.org/k/#@the_
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/Winnode/The_pixel.git
-   ```
+```
+git clone https://github.com/Winnode/The_pixel.git
+```
+   
+ ```
 cd The_pixel
+ ```
 
 Untuk menginstal, jalankan perintah berikut:
-
+    
+ ```
 Pip install -r requirements.txt
-
+ ```
 ### Run
 
+ ```
 python3 main.py
-
+ ```
 
 ## Give
 - [Follow kami di Twitter](https://twitter.com/Winnode)
